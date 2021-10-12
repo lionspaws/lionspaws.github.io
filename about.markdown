@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-Dr Helen Miles is a lecturer in Computer Science at Aberystwyth University.
+{{ site.description }}
+
 Helen's research is in the field of computer graphics, virtual environments, visual perception and data visualisation
