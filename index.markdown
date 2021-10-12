@@ -4,3 +4,5 @@ title: home
 ---
 
 <p>testing</p>
+
+{% bibliography %}
