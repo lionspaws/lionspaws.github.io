@@ -12,4 +12,4 @@ I teach CompSci at Aber Uni and research applied computer graphics and data vis;
 - [Scholar](https://scholar.google.co.uk/citations?user=OWuu1f0AAAAJ&hl=en)
 
 # GitHub Projects:
-- [360 Image Browser](https://lionspaws.github.io/vr-testbed/)
+- [AberCompSci in 360](https://lionspaws.github.io/vr-testbed/acs-360)
