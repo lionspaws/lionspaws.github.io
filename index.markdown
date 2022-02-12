@@ -13,3 +13,4 @@ I teach CompSci at Aber Uni and research applied computer graphics and data vis;
 
 # GitHub Projects:
 - [AberCompSci in 360](https://lionspaws.github.io/vr-testbed/acs-360)
+- [Rosalind Franklin's Mars Clock](https://au-exomars.github.io/marsclock/)
