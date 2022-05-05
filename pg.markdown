@@ -1,3 +1,8 @@
+---
+layout: default
+title: Dr Helen Miles
+---
+
 # Postrgraduate Research Opportunities
 If you are looking for PGR opportunities and want to contact me, here is some information that will hopefully help to answer some intial questions you might have.
 
