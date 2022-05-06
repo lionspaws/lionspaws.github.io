@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dr Helen Miles
+permalink: /research/
 ---
 
 # My Projects
@@ -35,4 +36,4 @@ title: Dr Helen Miles
 ## Collaboration?
 If you're interested in the areas I've listed and want to discuss ideas, [please get in touch with me](https://pure.aber.ac.uk/portal/en/persons/helen-miles(7b18b132-9dc9-4f58-83cb-271020a0418f).html)!
 
-If you're specifically looking for Postrgraduate Research Opportunities then I have some more info here: [https://lionspaws.github.io/pg](pg.markdown)
+If you want to discuss Postgraduate Research opportunities, please have a look at my [Postgraduate Research Opportunities](pg.markdown) page first.
