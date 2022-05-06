@@ -14,7 +14,7 @@ There's a lot of useful advice already out there about how the process usually w
 - [www.prospects.ac.uk](https://www.prospects.ac.uk/postgraduate-study/phd-study)
 
 ## Am I the right supervisor?
-If you're interested in exploring some of the areas I've mentioned on my [Research page](research.markdown) then that's a good start! I work primarily in the [Vision, Grpahics, and Visualisation (VGV) Research group](https://www.aber.ac.uk/en/cs/research/vgv/), but am also a part of the [Intelligent Robotics (IR) group](https://www.aber.ac.uk/en/cs/research/ir/). 
+If you're interested in exploring some of the areas I've mentioned on my [Research page](research.markdown) then that's a good start! I work primarily in the [Vision, Graphics, and Visualisation (VGV) Research group](https://www.aber.ac.uk/en/cs/research/vgv/), but am also a part of the [Intelligent Robotics (IR) group](https://www.aber.ac.uk/en/cs/research/ir/). 
 
 I am quite new to PG supervision, you can see more on the [Supervision section of my AU Research page](https://pure.aber.ac.uk/portal/en/persons/helen-miles(7b18b132-9dc9-4f58-83cb-271020a0418f)/supervision.html). I'm keen to collaborate with people who want to explore creative ideas and approaches in technology. I'm a big fan of working set hours and keeping a healthy work-life balance, and making time for opportunities that will benefit you within your studies - there are often oppotunities to get involved in teaching and extra-curricular activities in the dept if you want to. 
 
