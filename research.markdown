@@ -12,12 +12,21 @@ title: Dr Helen Miles
 - 2020-24 PI, PhD Studentship: [Approximating the colour of Mars](https://gtr.ukri.org/projects?ref=studentship-2431329#/tabOverview), AIMLAC CDT
 
 ## Previous and current areas
+- computer graphics
 - Virtual Reality (VR)
 - Virtual Environments (VEs)
-- visualisation
-- depth perception
-- 
+- data visualisation
+- depth / stereo / visual perception
+- virtual reconstruction / photogrammetry
+- digital heritage
+- crowd-sourcing data
+- user interfaces (UI)
+- user experience (UX)
+- geological data analysis
+- materials modelling
 
 ## What I'd be interested to work on
 - teleoperation
 - Augmented Reality (AR)
+- haptics
+- robotics UI and UX
