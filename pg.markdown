@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Dr Helen Miles
+permalink: /pgr/
 ---
 
 [<- Research](research.markdown)
