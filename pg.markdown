@@ -3,6 +3,8 @@ layout: default
 title: Dr Helen Miles
 ---
 
+[:arrow_left: Research](https://lionspaws.github.io/research)
+
 # Postrgraduate Research Opportunities
 If you are looking for PGR opportunities and want to contact me, here is some information that will hopefully help to answer some intial questions you might have.
 
@@ -22,3 +24,6 @@ Some other options to explore:
 ## How to apply
 
 ## What next?
+
+
+If you're interested in the areas I've listed and want to discuss ideas, [please get in touch with me](https://pure.aber.ac.uk/portal/en/persons/helen-miles(7b18b132-9dc9-4f58-83cb-271020a0418f).html)!
