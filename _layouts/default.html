@@ -28,6 +28,11 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+      <ul>
+        {% for item in site.pages %}
+        <li>{ item }</li>
+        {% endfor %}
+      </ul>
       {{ content }}
 
       <footer class="site-footer">
