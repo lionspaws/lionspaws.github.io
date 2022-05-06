@@ -8,6 +8,10 @@ title: Dr Helen Miles
 # Postrgraduate Research Opportunities
 If you are looking for PGR opportunities and want to contact me, here is some information that will hopefully help to answer some intial questions you might have.
 
+There's a lot of useful advice already out there about how the process usually works, help on writing proposals and getting funding, e.g.:
+- (https://www.findaphd.com/advice/finding/phd-applications.aspx)
+- (https://www.prospects.ac.uk/postgraduate-study/phd-study)
+
 ## Am I the right supervisor?
 If you're interested in exploring some of the areas I've mentioned on my [Research page](research.markdown) then that's a good start! I work primarily in the [Vision, Grpahics, and Visualisation (VGV) Research group](https://www.aber.ac.uk/en/cs/research/vgv/), but am also a part of the [Intelligent Robotics (IR) group](https://www.aber.ac.uk/en/cs/research/ir/). 
 
@@ -24,7 +28,7 @@ Some other options to explore:
 - [GovUK Guide on Funding for postgraduate study](https://www.gov.uk/funding-for-postgraduate-study)
 
 ## Project idea
-For funded projects I may have already proposed an idea, and if so you will be able to see that (e.g. as with the [UKRI AIMLAC CDT](http://cdt-aimlac.org/cdt-main.html)); you should think about how you would work with this suggestion.
+If you want to get in touch, then it's much easier for us to have a conversation that will help you if you've got an idea of what you want to investigate, and what kind of work might already have been done in that area. For funded projects I may have already proposed an idea, and if so you will be able to see that (e.g. as with the [UKRI AIMLAC CDT](http://cdt-aimlac.org/cdt-main.html)); you should think about how you would work with this suggestion. For either, I'd suggest getting together a couple of pages of notes that we can discuss if you want to talk. 
 
 ## How to apply
 If you want to apply for a funded post there will be instructions with the funding on what we need, but if you're not sure you can contact me.
