@@ -9,8 +9,8 @@ title: Dr Helen Miles
 If you are looking for PGR opportunities and want to contact me, here is some information that will hopefully help to answer some intial questions you might have.
 
 There's a lot of useful advice already out there about how the process usually works, help on writing proposals and getting funding, e.g.:
-- (https://www.findaphd.com/advice/finding/phd-applications.aspx)
-- (https://www.prospects.ac.uk/postgraduate-study/phd-study)
+- [www.findaphd.com](https://www.findaphd.com/advice/finding/phd-applications.aspx)
+- [www.prospects.ac.uk](https://www.prospects.ac.uk/postgraduate-study/phd-study)
 
 ## Am I the right supervisor?
 If you're interested in exploring some of the areas I've mentioned on my [Research page](research.markdown) then that's a good start! I work primarily in the [Vision, Grpahics, and Visualisation (VGV) Research group](https://www.aber.ac.uk/en/cs/research/vgv/), but am also a part of the [Intelligent Robotics (IR) group](https://www.aber.ac.uk/en/cs/research/ir/). 
