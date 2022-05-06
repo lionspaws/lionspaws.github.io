@@ -24,9 +24,15 @@ title: Dr Helen Miles
 - user experience (UX)
 - geological data analysis
 - materials modelling
+- digital creative arts
 
 ## What I'd be interested to work on
 - teleoperation
 - Augmented Reality (AR)
 - haptics
 - robotics UI and UX
+
+## Collaboration?
+If you're interested in the areas I've listed and want to discuss ideas, [please get in touch with me](https://pure.aber.ac.uk/portal/en/persons/helen-miles(7b18b132-9dc9-4f58-83cb-271020a0418f).html)!
+
+If you're specifically looking for Postrgraduate Research Opportunities then I have some more info here: https://lionspaws.github.io/pg
