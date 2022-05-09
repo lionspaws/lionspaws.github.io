@@ -28,14 +28,7 @@
     </header>
 
     <main id="content" class="main-content" role="main">
-      <ul class="nav justify-content-center">
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.url }}">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.url }}/research">Research</a>
-        </li>
-      </ul>
+      {% include navbar.html %}
       {{ content }}
 
       <footer class="site-footer">
