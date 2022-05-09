@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Dr Helen Miles
 permalink: /about/
 ---
 
