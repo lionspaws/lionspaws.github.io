@@ -4,7 +4,7 @@ title: Dr Helen Miles
 permalink: /cv/
 ---
 
-<div class="container">        
+<div class="container w-100">        
   
   <div class="table-responsive">          
   <table class="table">
@@ -56,7 +56,7 @@ permalink: /cv/
   </table>
   </div>
   
-  <div class="table-responsive w-100">          
+  <div class="table-responsive">          
   <table class="table">
     <thead>
       <tr>
@@ -79,6 +79,66 @@ permalink: /cv/
       <tr>
         <td>Research Assistant</td>
         <td>Bangor University 2013–14</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+  
+  <div class="table-responsive w-100">          
+  <table class="table">
+    <thead>
+      <tr>
+        <th colspan="2"><span class="glyphicon glyphicon-home"></span> Additional</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2021+</td>
+        <td>Professional Member of the BCS</td>
+      </tr>
+      <tr>
+        <td>2021+</td>
+        <td>Professional Member of the ACM, member of ACM SIGGRAPH and ACM SIGCHI</td>
+      </tr>
+      <tr>
+        <td>2020+</td>
+        <td>External Examiner for the University of Lincoln, UG/PGT Computer Science Programmes</td>
+      </tr>
+      <tr>
+        <td>2019+</td>
+        <td>Member of ESA’s ExoMars Communications Coordination Group</td>
+      </tr>
+      <tr>
+        <td>2018+</td>
+        <td>Pwyllgor Gwyddoniaeth a Thechnoleg (Science & Technology Committee), 2022 National Eisteddfod, Tregaron</td>
+      </tr>
+      <tr>
+        <td>2017-2019</td>
+        <td>The UK Association for Science and Discovery Centres (ASDC) Destination Space - Science and Engagement Advisory Group</td>
+      </tr>
+      <tr>
+        <td>2017-2020</td>
+        <td>Chair of the BCSWomen Lovelace Colloquium, national UG conference for women in computing</td>
+      </tr>
+      <tr>
+        <td>2017+</td>
+        <td>BCSWomen Committee</td>
+      </tr>
+      <tr>
+        <td>2016+</td>
+        <td>BCS Mid-Wales Branch Committee</td>
+      </tr>
+      <tr>
+        <td>2015+</td>
+        <td>Athena Swan Self-Assessment Team (Department of Computer Science, Aberystwyth University)</td>
+      </tr>
+      <tr>
+        <td>2015-2020</td>
+        <td>Associate Member of the BCS</td>
+      </tr>
+      <tr>
+        <td>2013+</td>
+        <td>STEM Ambassador</td>
       </tr>
     </tbody>
   </table>
