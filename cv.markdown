@@ -4,9 +4,9 @@ title: Dr Helen Miles
 permalink: /cv/
 ---
 
-<div class="container w-100">        
+<div class="container">        
   
-  <div class="table-responsive">          
+  <div class="table-responsive w-100">          
   <table class="table">
     <thead>
       <tr>
@@ -17,7 +17,7 @@ permalink: /cv/
   </table>
   </div>
   
-  <div class="table-responsive">          
+  <div class="table-responsive w-100">          
   <table class="table table-condensed">
     <thead>
       <tr>
@@ -32,7 +32,7 @@ permalink: /cv/
   </table>
   </div>
   
-  <div class="table-responsive">          
+  <div class="table-responsive w-100">          
   <table class="table">
     <thead>
       <tr>
@@ -56,7 +56,7 @@ permalink: /cv/
   </table>
   </div>
   
-  <div class="table-responsive">          
+  <div class="table-responsive w-100">          
   <table class="table">
     <thead>
       <tr>
