@@ -117,8 +117,12 @@ permalink: /cv/
         <td>The UK Association for Science and Discovery Centres (ASDC) Destination Space - Science and Engagement Advisory Group</td>
       </tr>
       <tr>
-        <td>2017-2020</td>
-        <td>Chair of the BCSWomen Lovelace Colloquium, national UG conference for women in computing</td>
+        <td>2018-2020</td>
+        <td>Chair of the BCSWomen Lovelace Colloquium</td>
+      </tr>
+      <tr>
+        <td>2017</td>
+        <td>Deputy Chair of the BCSWomen Lovelace Colloquium</td>
       </tr>
       <tr>
         <td>2017+</td>
