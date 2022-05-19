@@ -18,7 +18,7 @@ permalink: /cv/
   </div>
   
   <div class="table-responsive">          
-  <table class="table">
+  <table class="table table-condensed">
     <thead>
       <tr>
         <th>Research Interests</th>
@@ -36,7 +36,7 @@ permalink: /cv/
   <table class="table">
     <thead>
       <tr>
-        <th colspan="2">Education & Qualifications</th>
+        <th colspan="2"><span class="glyphicon glyphicon-education"></span> Education & Qualifications</th>
       </tr>
     </thead>
     <tbody>
@@ -56,11 +56,11 @@ permalink: /cv/
   </table>
   </div>
   
-  <div class="table-responsive">          
+  <div class="table-responsive w-100">          
   <table class="table">
     <thead>
       <tr>
-        <th colspan="2">Academic Experience</th>
+        <th colspan="2"><span class="glyphicon glyphicon-home"></span> Academic Experience</th>
       </tr>
     </thead>
     <tbody>
