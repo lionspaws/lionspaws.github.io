@@ -133,6 +133,10 @@ permalink: /cv/
         <td>BCS Mid-Wales Branch Committee</td>
       </tr>
       <tr>
+        <td>2016-2022</td>
+        <td>Aberystwyth Robotics Club; academic lead, club for 11–18 year olds</td>
+      </tr>
+      <tr>
         <td>2015+</td>
         <td>Athena Swan Self-Assessment Team (Department of Computer Science, Aberystwyth University)</td>
       </tr>
