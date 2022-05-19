@@ -6,8 +6,8 @@ permalink: /cv/
 
 <div class="container">        
   
-  <div class="table-responsive w-100">          
-  <table class="table">
+  <div class="table-responsive w-100 d-block d-md-table">          
+  <table class="table table-condensed">
     <thead>
       <tr>
         <td>Dr Helen Miles, BSc PhD FHEA</td>
@@ -17,7 +17,7 @@ permalink: /cv/
   </table>
   </div>
   
-  <div class="table-responsive w-100">          
+  <div class="table-responsive w-100 d-block d-md-table">          
   <table class="table table-condensed">
     <thead>
       <tr>
@@ -32,8 +32,8 @@ permalink: /cv/
   </table>
   </div>
   
-  <div class="table-responsive w-100">          
-  <table class="table">
+  <div class="table-responsive w-100 d-block d-md-table">          
+  <table class="table table-condensed">
     <thead>
       <tr>
         <th colspan="2"><span class="glyphicon glyphicon-education"></span> Education & Qualifications</th>
@@ -56,8 +56,8 @@ permalink: /cv/
   </table>
   </div>
   
-  <div class="table-responsive w-100">          
-  <table class="table">
+  <div class="table-responsive w-100 d-block d-md-table">          
+  <table class="table table-condensed">
     <thead>
       <tr>
         <th colspan="2"><span class="glyphicon glyphicon-home"></span> Academic Experience</th>
@@ -84,8 +84,8 @@ permalink: /cv/
   </table>
   </div>
   
-  <div class="table-responsive w-100">          
-  <table class="table">
+  <div class="table-responsive w-100 d-block d-md-table">          
+  <table class="table table-condensed">
     <thead>
       <tr>
         <th colspan="2"><span class="glyphicon glyphicon-home"></span> Additional</th>
