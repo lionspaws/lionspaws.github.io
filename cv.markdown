@@ -10,7 +10,7 @@ permalink: /cv/
   <table class="table table-condensed">
     <thead>
       <tr>
-        <td>Dr Helen Miles, BSc PhD FHEA</td>
+        <td>Dr Helen Miles, BSc PhD SFHEA</td>
         <td>Lecturer in Computer Science, Aberystwyth University</td>
       </tr>
     </thead>
@@ -109,7 +109,7 @@ permalink: /cv/
         <td>Member of ESA’s ExoMars Communications Coordination Group</td>
       </tr>
       <tr>
-        <td>2018+</td>
+        <td>2018-2022</td>
         <td>Pwyllgor Gwyddoniaeth a Thechnoleg (Science & Technology Committee), 2022 National Eisteddfod, Tregaron</td>
       </tr>
       <tr>
