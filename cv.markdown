@@ -93,6 +93,10 @@ permalink: /cv/
     </thead>
     <tbody>
       <tr>
+        <td>2022</td>
+        <td>AdvanceHE Aurora Leadership</td>
+      </tr>
+      <tr>
         <td>2021+</td>
         <td>Professional Member of the BCS</td>
       </tr>
