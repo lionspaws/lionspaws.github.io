@@ -12,7 +12,7 @@ permalink: /teaching/
 - 2017 Fellow of the HEA
 - 2016 Associate Fellow of the HEA
 
-# UG & PG Modules I've worked on
+# UG & PG Modules
 - Foundation Mini Projects (Coordinator and Lecturer) - [2017-18](https://www.aber.ac.uk/en/modules/2018/CS02420/), [2018-19](https://www.aber.ac.uk/en/modules/2019/CS02420/), [2019-20](https://www.aber.ac.uk/en/modules/2020/CS02420/), [2020-21](https://www.aber.ac.uk/en/modules/2021/CS02420/), [2021-22](https://www.aber.ac.uk/en/modules/2022/CS02420/)
 - Introduction to Computer Hardware, Operating Systems and Unix Tools (Lecturer) - [2015-16](https://www.aber.ac.uk/en/modules/2016/CS10110/)
 - Introduction to Communications and Telematics (Lecturer) - [2015-16](https://www.aber.ac.uk/en/modules/2016/CS15210/)
