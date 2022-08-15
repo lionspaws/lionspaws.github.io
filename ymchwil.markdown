@@ -11,7 +11,7 @@ permalink: /ymchwil/
 - 2014-15 CYOD Prosiect, Prifysgol Aberystwyth: [Co-Production of alternative views of lost heritage](https://gtr.ukri.org/projects?ref=AH%2FL007916%2F1#/tabOverview), AHRC
 - 2018-22 Cyd-Y, Prifysgol Aberystwyth: [Tîm ExoMars PA](https://exomars.cymru), UK Space Agency
 - 2019-23 PY, Prifysgol Aberystwyth: [Advanced Media Production](https://amp.aber.ac.uk/en/home/), ESF/WEFO
-- 2020-24 PY, Efrydiaeth PhD: [Approximating the colour of Mars](https://gtr.ukri.org/projects?ref=studentship-2431329#/tabOverview), AIMLAC CDT
+- 2020-24 PY, Ysgoloriaethau PhD: [Approximating the colour of Mars](https://gtr.ukri.org/projects?ref=studentship-2431329#/tabOverview), AIMLAC CDT
 
 ## Meysydd blaenorol a chyfredol
 - graffeg cyfrifiadurol
