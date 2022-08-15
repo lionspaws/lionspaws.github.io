@@ -37,4 +37,4 @@ permalink: /ymchwil/
 ## Cydweithrediad?
 Os oes gennych chi ddiddordeb yn y meysydd rydw i wedi eu rhestru ac eisiau trafod syniadau, [cysylltwch â fi](https://pure.aber.ac.uk/portal/cy/persons/helen-miles(7b18b132-9dc9-4f58-83cb-271020a0418f).html)!
 
-Os ydych chi eisiau trafod cyfleoedd Ymchwil Ôl-raddedig, edrychwch ar fy nhudalen [Cyfleoedd Ymchwil Ôl-raddedig](pg.markdown) yn gyntaf.
+Os ydych chi eisiau trafod cyfleoedd Ymchwil Ôl-raddedig, edrychwch ar fy nhudalen [Cyfleoedd Ymchwil Ôl-raddedig](pg-cy.markdown) yn gyntaf.
