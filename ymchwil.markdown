@@ -1,6 +1,7 @@
 ---
 layout: default-cy
 title: Dr Helen Miles
+description: Darlithydd Cyfrifiadureg, Prifysgol Aberystwyth.
 permalink: /ymchwil/
 ---
 
