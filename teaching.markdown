@@ -13,7 +13,7 @@ permalink: /teaching/
 
 # Modules I've taught
 - Foundation Mini Projects, [2017-18](https://www.aber.ac.uk/en/modules/2018/CS02420/), [2018-19](https://www.aber.ac.uk/en/modules/2019/CS02420/), [2019-20](https://www.aber.ac.uk/en/modules/2020/CS02420/), [2020-21](https://www.aber.ac.uk/en/modules/2021/CS02420/), [2021-22](https://www.aber.ac.uk/en/modules/2022/CS02420/)
-- Introduction to Computer Infrastructure
+- Introduction to Computer Infrastructure, [2016-17](https://www.aber.ac.uk/en/modules/2017/CS10220/), [2017-18](https://www.aber.ac.uk/en/modules/2018/CS10220/), [2018-19](https://www.aber.ac.uk/en/modules/2019/CS10220/)
 - Programming Using an Object-Oriented Language
 - Introduction to Computer Hardware
 - Operating Systems and Unix Tools
