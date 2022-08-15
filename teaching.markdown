@@ -9,6 +9,7 @@ permalink: /teaching/
 - 2022 Senior Fellow of the HEA
 - 2019-23 Academic Coordinator for MSc [Advanced Media Production](https://amp.aber.ac.uk/en/home/)
 - 2019-24 External Examiner for [School of Computer Science, University of Lincoln](https://www.lincoln.ac.uk/socs/)
+- 2018 Ran session at AU's E-Learning [Academy Mini Conference](https://www.aber.ac.uk/en/is/it-services/elearning/networks-and-events/academy-mini-conference/): Serious Play for Learning
 - 2016-17 Postgraduate Certificate of Teaching in Higher Education, Aberystwyth University
 - 2017 Fellow of the HEA
 - 2017 Presentation at AU's [5th Annual Learning and Teaching Conference](infopages/aultc17.markdown)
