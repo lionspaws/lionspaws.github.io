@@ -12,7 +12,7 @@ permalink: /teaching/
 - 2016 Recognised as Associate Fellow of the HEA
 
 # Modules I've taught
-- Foundation Mini Projects
+- Foundation Mini Projects, [2017-18](https://www.aber.ac.uk/en/modules/2018/CS02420/), [2018-19](https://www.aber.ac.uk/en/modules/2019/CS02420/), [2019-20](https://www.aber.ac.uk/en/modules/2020/CS02420/), [2020-21](https://www.aber.ac.uk/en/modules/2020/CS02420/)
 - Introduction to Computer Infrastructure
 - Programming Using an Object-Oriented Language
 - Introduction to Computer Hardware
