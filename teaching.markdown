@@ -23,6 +23,8 @@ permalink: /teaching/
 - Programming Using an Object-Oriented Language (Tutorials) - [2014-15](https://www.aber.ac.uk/en/modules/2015/CS12320/), [2015-16](https://www.aber.ac.uk/en/modules/2016/CS12320/), [2016-17](https://www.aber.ac.uk/en/modules/2017/CS12320/), [2017-18](https://www.aber.ac.uk/en/modules/2018/CS12320/)
 - Applied Graphics (Lecturer) - [2016-17](https://www.aber.ac.uk/en/modules/2017/CS24320/), [2017-18](https://www.aber.ac.uk/en/modules/2018/CS24320/), [2018-19](https://www.aber.ac.uk/en/modules/2019/CS24320/), [2019-20](https://www.aber.ac.uk/en/modules/2020/CS24320/), [2020-21](https://www.aber.ac.uk/en/modules/2021/CS24320/), [2021-22](https://www.aber.ac.uk/en/modules/2022/CS24320/)
 - Commercial Database Applications (Coordinator and Lecturer) - [2015-16](https://www.aber.ac.uk/en/modules/2016/CS27510/)
+- Modelling Persistent Data (Lecturer) - [2020-21](https://www.aber.ac.uk/en/modules/2021/CS27020/), [2021-22](https://www.aber.ac.uk/en/modules/2021/CS27020/)
+- Modelu Data Parhaus (Lecturer) - [2020-21](https://www.aber.ac.uk/en/modules/2021/CC27020/), [2021-22](https://www.aber.ac.uk/en/modules/2021/CC27020/)
 - Professional Issues in the Computing Industry (Lecturer) - [2019-20](https://www.aber.ac.uk/en/modules/2020/CS38220/)
 - Advanced Computer Graphics (Lecturer) - [2015-16](https://www.aber.ac.uk/en/modules/2016/CS32310/), [2016-17](https://www.aber.ac.uk/en/modules/2017/CS32310/)
 - Computer Graphics and Games (Coordinator and Lecturer) - [2017-18](https://www.aber.ac.uk/en/modules/2018/CS32420/), [2018-19](https://www.aber.ac.uk/en/modules/2019/CS32420/)
