@@ -1,6 +1,7 @@
 ---
 layout: default-cy
 title: Dr Helen Miles
+description: Darlithydd Cyfrifiadureg, Prifysgol Aberystwyth.
 ---
 
 ![Llun o Helen Miles yn y BCSWomen Lovelace Colloquium ym Mhrifysgol Salford, 2019](/assets/profile.jpg)
