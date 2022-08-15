@@ -7,7 +7,7 @@ permalink: /pgr/
 [<- Research](research.markdown)
 
 # Postgraduate Research Opportunities
-If you are looking for PGR opportunities and want to contact me, here is some information that will hopefully help to answer some intial questions you might have.
+If you are looking for PGR opportunities and want to contact me, here is some information that will hopefully help to answer some initial questions you might have.
 
 There's a lot of useful advice already out there about how the process usually works, help on writing proposals and getting funding, e.g.:
 - [www.findaphd.com](https://www.findaphd.com/advice/finding/phd-applications.aspx)
