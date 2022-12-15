@@ -11,3 +11,4 @@ permalink: /links/
 - [Scholar](https://scholar.google.co.uk/citations?user=OWuu1f0AAAAJ&hl=en)
 
 ![AdvanceHE Aurora 2022 Badge](https://eu.api.accredible.com/v1/frontend/credential_website_embed_image/badge/2405088)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4e1c107b-adfe-40bc-ac8f-bc046c3d71d8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
