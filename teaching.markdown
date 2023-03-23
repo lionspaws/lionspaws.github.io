@@ -5,6 +5,7 @@ permalink: /teaching/
 ---
 
 # My Experience
+- 2023 Ran session at AU's E-Learning [Academy Mini Conference](https://www.aber.ac.uk/en/is/it-services/elearning/networks-and-events/academy-mini-conference/2023/): Virtual Reality
 - 2022 Presentation at AU's 10th Annual Learning and Teaching Conference
 - 2022 Senior Fellow of the HEA
 - 2019-23 Academic Coordinator for MSc [Advanced Media Production](https://amp.aber.ac.uk/en/home/)
