@@ -6,10 +6,11 @@ permalink: /dysgu/
 ---
 
 # Fy Mhrofiad
+- 2023 Rhedeg sesiwn yn [Cynhadledd Fer Academi](https://www.aber.ac.uk/cy/is/it-services/elearning/networks-and-events/academy-mini-conference/2023/) PA:  Realiti Rhithwir
 - 2022 Cyflwyniad yn y [10fed Cynhadledd Dysgu ac Addysgu Flynyddol](infopages/aultc22.markdown) PA
 - 2022 Uwch Gymrawd yr HEA
 - 2019-23 Cydlynydd Academicaidd i'r MSc [Cynhyrchu Cyrfyngau Uwch](https://amp.aber.ac.uk/cy/hafan/)
-- 2019-24 External Examiner for [School of Computer Science, University of Lincoln](https://www.lincoln.ac.uk/socs/)
+- 2019-24 Arholwr Allanol [School of Computer Science, University of Lincoln](https://www.lincoln.ac.uk/socs/)
 - 2018 Rhedeg sesiwn yn [Cynhadledd Fer Academi](https://www.aber.ac.uk/cy/is/it-services/elearning/networks-and-events/academy-mini-conference/) PA: 'Serious Play for Learning'
 - 2016-17 Tystysgrif Uwchraddedig Addysgu mewn Addysg Uwch, Prifysgol Aberystwyth
 - 2017 Cymrawd yr HEA
