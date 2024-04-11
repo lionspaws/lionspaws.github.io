@@ -17,17 +17,23 @@ permalink: /dysgu/
 - 2017 Cyflwyniad yn y [5ed Cynhadledd Dysgu ac Addysgu Flynyddol](infopages/aultc17.markdown) PA
 - 2016 Cymrawd Cyswllt yr HEA
 
-# Modiwlau UG a PG
-- Foundation Mini Projects (Cydlynydd a Darlithydd) - [2017-18](https://www.aber.ac.uk/en/modules/2018/CS02420/), [2018-19](https://www.aber.ac.uk/en/modules/2019/CS02420/), [2019-20](https://www.aber.ac.uk/en/modules/2020/CS02420/), [2020-21](https://www.aber.ac.uk/en/modules/2021/CS02420/), [2021-22](https://www.aber.ac.uk/en/modules/2022/CS02420/)
-- Introduction to Computer Hardware, Operating Systems and Unix Tools (Darlithydd) - [2015-16](https://www.aber.ac.uk/en/modules/2016/CS10110/)
-- Introduction to Communications and Telematics (Darlithydd) - [2015-16](https://www.aber.ac.uk/en/modules/2016/CS15210/)
-- Introduction to Computer Infrastructure (Darlithydd) - [2016-17](https://www.aber.ac.uk/en/modules/2017/CS10220/), [2017-18](https://www.aber.ac.uk/en/modules/2018/CS10220/), [2018-19](https://www.aber.ac.uk/en/modules/2019/CS10220/)
-- Programming Using an Object-Oriented Language (Tiwtorialau) - [2014-15](https://www.aber.ac.uk/en/modules/2015/CS12320/), [2015-16](https://www.aber.ac.uk/en/modules/2016/CS12320/), [2016-17](https://www.aber.ac.uk/en/modules/2017/CS12320/), [2017-18](https://www.aber.ac.uk/en/modules/2018/CS12320/)
-- Applied Graphics (Darlithydd) - [2016-17](https://www.aber.ac.uk/en/modules/2017/CS24320/), [2017-18](https://www.aber.ac.uk/en/modules/2018/CS24320/), [2018-19](https://www.aber.ac.uk/en/modules/2019/CS24320/), [2019-20](https://www.aber.ac.uk/en/modules/2020/CS24320/), [2020-21](https://www.aber.ac.uk/en/modules/2021/CS24320/), [2021-22](https://www.aber.ac.uk/en/modules/2022/CS24320/)
-- Commercial Database Applications (Cydlynydd a Darlithydd) - [2015-16](https://www.aber.ac.uk/en/modules/2016/CS27510/)
-- Modelling Persistent Data (Darlithydd) - [2020-21](https://www.aber.ac.uk/en/modules/2021/CS27020/), [2021-22](https://www.aber.ac.uk/en/modules/2021/CS27020/)
-- Modelu Data Parhaus (Darlithydd) - [2020-21](https://www.aber.ac.uk/en/modules/2021/CC27020/), [2021-22](https://www.aber.ac.uk/en/modules/2021/CC27020/)
-- Professional Issues in the Computing Industry (Darlithydd) - [2019-20](https://www.aber.ac.uk/en/modules/2020/CS38220/)
-- Advanced Computer Graphics (Darlithydd) - [2015-16](https://www.aber.ac.uk/en/modules/2016/CS32310/), [2016-17](https://www.aber.ac.uk/en/modules/2017/CS32310/)
-- Computer Graphics and Games (Cydlynydd a Darlithydd) - [2017-18](https://www.aber.ac.uk/en/modules/2018/CS32420/), [2018-19](https://www.aber.ac.uk/en/modules/2019/CS32420/)
-- UG Major/Minor Projects (Goruchwyliaeth) - [2015-16](https://www.aber.ac.uk/en/modules/2016/CS39440/), [2016-17](https://www.aber.ac.uk/en/modules/2017/CS39440/), [2017-18](https://www.aber.ac.uk/en/modules/2018/CS39440/), [2018-19](https://www.aber.ac.uk/en/modules/2019/CS39440/), [2019-20](https://www.aber.ac.uk/en/modules/2020/CS39440/), [2020-21](https://www.aber.ac.uk/en/modules/2021/CS39440/), [2021-22](https://www.aber.ac.uk/en/modules/2022/CS39440/)
+# Modiwlau IR ac UR
+Rydw y wedi dysgu a chydlynnu nifer o fodiwlau, gyda rhai yn ddwyieithog, yn gynnwys:
+- Advanced Computer Graphics
+- Applied Graphics (UG)
+- Applied Graphics (PG) // Graffeg Gymhwysol (UR)
+- Big Data (PG) // Data Mawr (UR)
+- Commercial Database Applications
+- Computer Graphics and Games
+- Extended Reality (PG) // Realiti Ymestynnol (UR)
+- Foundation Mini Projects
+- Introduction to Communications and Telematics
+- Introduction to Computer Hardware, Operating Systems and Unix Tools
+- Introduction to Computer Infrastructure
+- Modelling Persistent Data (PG) // Modelu Data Parhaus (UR)
+- Professional Issues in the Computing Industry
+- Programming for Digital Media (PG) // Rhaglennu ar gyfer Cyfryngau Digidol (UR)
+- Programming Using an Object-Oriented Language
+- UG Major/Minor Project Supervision
+- MSc Project Supervision
+- Web Development (PG) // Datblygu ar gyfer y We (UR)
