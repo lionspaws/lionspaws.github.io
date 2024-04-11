@@ -6,6 +6,8 @@ permalink: /ymchwil/
 ---
 
 # Fy Mhrosiectau
+- 2024 Cyd-Y: [Green Digital Transformation](https://ibersdl.org.uk/registration/green-digital-transformation), UK Shared Prosperity Fund a Cyngor Sir Powys 
+- 2023-24 PY: [Institute of Coding in Wales Digital Skills Bootcamps](https://research.aber.ac.uk/en/projects/institute-of-coding-in-wales-digital-skills-bootcamps-202223), HEFCW a Llywodraeth Cymru
 - 2022 PY: ['Trwy eu llygaid': profiad rhithwir fel ceisiwr cymorth ar gyfer trais a cham-drin domestig](https://dna.wales/wp-content/uploads/WDNA-A1-Poster_Domestic-Violence_W.pdf), Llywodraeth Cymru a [Wales Data Nation Accelerator](https://dna.wales/cy/prosiectau/)
 - 2020-24 PY, Ysgoloriaethau PhD: [Approximating the colour of Mars](https://gtr.ukri.org/projects?ref=studentship-2431329#/tabOverview), AIMLAC CDT
 - 2019-23 PY: [Advanced Media Production](https://amp.aber.ac.uk/en/home/), ESF/WEFO
