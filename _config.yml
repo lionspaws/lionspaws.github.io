@@ -21,7 +21,7 @@
 title: Dr Helen Miles
 email: hem23@aber.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Lecturer in Computer Science, Aberystwyth University.
+  Senior Lecturer in Computer Science, Aberystwyth University.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lionspaws.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lionspaws
