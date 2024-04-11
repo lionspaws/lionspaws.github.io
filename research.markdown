@@ -5,6 +5,8 @@ permalink: /research/
 ---
 
 # My Projects
+- 2024 Co-I: [Green Digital Transformation](https://ibersdl.org.uk/registration/green-digital-transformation), UKSPF and Powys County Council
+- 2023-24 PI: [Institute of Coding in Wales Digital Skills Bootcamps](https://research.aber.ac.uk/en/projects/institute-of-coding-in-wales-digital-skills-bootcamps-202223), HEFCW
 - 2022 PI: ['Through their eyes': virtual experience as a help-seeker of domestic violence and abuse](https://dna.wales/wp-content/uploads/WDNA-A1-Poster_Domestic-Violence_E.pdf), Welsh Government and [Wales Data Nation Accelerator](https://dna.wales/projects/)
 - 2020-24 PI, PhD Studentship: [Approximating the colour of Mars](https://gtr.ukri.org/projects?ref=studentship-2431329#/tabOverview), AIMLAC CDT
 - 2019-23 PI: [Advanced Media Production](https://amp.aber.ac.uk/en/home/), ESF/WEFO
